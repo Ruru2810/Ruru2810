@@ -6,6 +6,12 @@
 </a>
 
 <br/>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 <!-- Badges row -->
 <a href="mailto:runakdas00067@gmail.com">
